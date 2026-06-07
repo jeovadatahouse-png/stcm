@@ -1,0 +1,2 @@
+# stcm
+Sorteio com nomes
